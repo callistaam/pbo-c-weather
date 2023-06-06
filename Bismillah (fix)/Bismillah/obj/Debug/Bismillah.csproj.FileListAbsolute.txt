@@ -1,0 +1,28 @@
+C:\Users\ASUS\Documents\KULYAH\SEM 2\PBO\TUGAS 6. API Weather\Bismillah\Bismillah\bin\Debug\Bismillah.exe.config
+C:\Users\ASUS\Documents\KULYAH\SEM 2\PBO\TUGAS 6. API Weather\Bismillah\Bismillah\bin\Debug\Bismillah.exe
+C:\Users\ASUS\Documents\KULYAH\SEM 2\PBO\TUGAS 6. API Weather\Bismillah\Bismillah\bin\Debug\Bismillah.pdb
+C:\Users\ASUS\Documents\KULYAH\SEM 2\PBO\TUGAS 6. API Weather\Bismillah\Bismillah\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\Documents\KULYAH\SEM 2\PBO\TUGAS 6. API Weather\Bismillah\Bismillah\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUS\Documents\KULYAH\SEM 2\PBO\TUGAS 6. API Weather\Bismillah\Bismillah\obj\Debug\Bismillah.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\KULYAH\SEM 2\PBO\TUGAS 6. API Weather\Bismillah\Bismillah\obj\Debug\Bismillah.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Documents\KULYAH\SEM 2\PBO\TUGAS 6. API Weather\Bismillah\Bismillah\obj\Debug\Bismillah.Form1.resources
+C:\Users\ASUS\Documents\KULYAH\SEM 2\PBO\TUGAS 6. API Weather\Bismillah\Bismillah\obj\Debug\Bismillah.Properties.Resources.resources
+C:\Users\ASUS\Documents\KULYAH\SEM 2\PBO\TUGAS 6. API Weather\Bismillah\Bismillah\obj\Debug\Bismillah.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\KULYAH\SEM 2\PBO\TUGAS 6. API Weather\Bismillah\Bismillah\obj\Debug\Bismillah.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\KULYAH\SEM 2\PBO\TUGAS 6. API Weather\Bismillah\Bismillah\obj\Debug\Bismillah.csproj.CopyComplete
+C:\Users\ASUS\Documents\KULYAH\SEM 2\PBO\TUGAS 6. API Weather\Bismillah\Bismillah\obj\Debug\Bismillah.exe
+C:\Users\ASUS\Documents\KULYAH\SEM 2\PBO\TUGAS 6. API Weather\Bismillah\Bismillah\obj\Debug\Bismillah.pdb
+C:\Users\ASUS\Documents\KULYAH\SEM 2\PBO\TUGAS 6. API Weather\Bismillah (fix)\Bismillah\bin\Debug\Bismillah.exe.config
+C:\Users\ASUS\Documents\KULYAH\SEM 2\PBO\TUGAS 6. API Weather\Bismillah (fix)\Bismillah\bin\Debug\Bismillah.exe
+C:\Users\ASUS\Documents\KULYAH\SEM 2\PBO\TUGAS 6. API Weather\Bismillah (fix)\Bismillah\bin\Debug\Bismillah.pdb
+C:\Users\ASUS\Documents\KULYAH\SEM 2\PBO\TUGAS 6. API Weather\Bismillah (fix)\Bismillah\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\Documents\KULYAH\SEM 2\PBO\TUGAS 6. API Weather\Bismillah (fix)\Bismillah\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUS\Documents\KULYAH\SEM 2\PBO\TUGAS 6. API Weather\Bismillah (fix)\Bismillah\obj\Debug\Bismillah.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\KULYAH\SEM 2\PBO\TUGAS 6. API Weather\Bismillah (fix)\Bismillah\obj\Debug\Bismillah.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Documents\KULYAH\SEM 2\PBO\TUGAS 6. API Weather\Bismillah (fix)\Bismillah\obj\Debug\Bismillah.Form1.resources
+C:\Users\ASUS\Documents\KULYAH\SEM 2\PBO\TUGAS 6. API Weather\Bismillah (fix)\Bismillah\obj\Debug\Bismillah.Properties.Resources.resources
+C:\Users\ASUS\Documents\KULYAH\SEM 2\PBO\TUGAS 6. API Weather\Bismillah (fix)\Bismillah\obj\Debug\Bismillah.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\KULYAH\SEM 2\PBO\TUGAS 6. API Weather\Bismillah (fix)\Bismillah\obj\Debug\Bismillah.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\KULYAH\SEM 2\PBO\TUGAS 6. API Weather\Bismillah (fix)\Bismillah\obj\Debug\Bismillah.csproj.CopyComplete
+C:\Users\ASUS\Documents\KULYAH\SEM 2\PBO\TUGAS 6. API Weather\Bismillah (fix)\Bismillah\obj\Debug\Bismillah.exe
+C:\Users\ASUS\Documents\KULYAH\SEM 2\PBO\TUGAS 6. API Weather\Bismillah (fix)\Bismillah\obj\Debug\Bismillah.pdb
